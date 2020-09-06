@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background: url("https://i.imgur.com/JHOv7VG.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+  padding-left: 80px;
+}
+
+p {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+div.emailSubmit {
+  padding: 0 0 180px 0;
+}
+
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+
+input[type="submit"] {
+  background: red;
+  color: white;
+}
